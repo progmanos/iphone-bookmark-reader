@@ -1,0 +1,1 @@
+This project reads bookmarks from Delicious.com in a JSON format and displays a list of the bookmarks.
